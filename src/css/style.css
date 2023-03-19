@@ -1,0 +1,99 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+
+.block{
+
+    width: 200px;
+    height: 200px;
+    background: rgb(54, 2, 2);
+    border: 15px solid black;
+    color: rgb(244, 247, 249);
+    padding: 25px;
+    margin-left: 15px;
+   display: inline-block;
+   
+    
+}
+
+.block2{
+  
+    width: 200px;
+    height: 200px;
+    background: rgb(3, 45, 29);
+    border: 15px solid black;
+    color: aliceblue;
+    padding: 25px;
+    margin:  30px;
+    display: inline-block
+}
+ 
+.block3{
+    width: 200px;
+    height: 200px;
+    background: rgb(11, 9, 69);
+    border: 15px solid black;
+    color: rgb(249, 251, 253);
+    padding: 25px;
+    margin-trim: 5px;
+    display: inline-block
+}
+ 
+
+.block4{
+    width: 200px;
+    height: 200px;
+    background: rgb(6, 66, 43);
+    border: 15px solid black;
+    color: rgb(243, 240, 243);
+    padding: 25px;
+    margin-left: 30px;
+    display: inline-block
+}
+ 
+.block5{ width: 200px;
+    height: 200px;
+    background: rgb(79, 46, 8);
+    border: 15px solid black;
+    color: rgb(243, 244, 242);
+    padding: 25px;
+    margin:  15px;
+    display: inline-block
+}
+ .block6{ width: 200px;
+    height: 200px;
+    background: rgb(51, 71, 6);
+    border: 15px solid black;
+    color: rgb(237, 236, 231);
+    padding: 25px;
+    margin:  15px;
+    display: inline-block
+    
+}
+
+.block7{ width: 200px;
+    height: 200px;
+    background: rgb(65, 8, 8);
+    border: 15px solid black;
+    color: rgb(250, 244, 247);
+    padding: 25px;
+    margin:  15px;
+    display: inline-block
+}
+ 
+
+.block8{ width: 200px;
+    height: 200px;
+    background: rgb(53, 6, 59);
+    border: 15px solid black;
+    color: rgb(242, 239, 245);
+    padding: 25px;
+    margin:  15px;
+    display: inline-block
+}
+ 
+
+
